@@ -4,3 +4,4 @@ Added from Desktop
 Git Hub Desktop
 Git Hub
 Git Hub Web
+Git Local
